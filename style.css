@@ -1,0 +1,81 @@
+.jumbotron {
+	text-align: center;
+	background-color: white;
+	font-family: 'Quicksand', sans-serif;
+	margin: 30px 60px 0 60px;
+	background-color: #0B7E48;
+	color: white;
+}
+
+.headerName {
+	margin: -30px;
+	
+}
+
+.phrase {
+	margin-bottom: -16px;
+	font-style: italic;
+}
+
+body {
+	background: url(n4.JPG) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+}
+
+.caption h2 {
+	color: white;
+}
+
+.btn {
+	width: 100%;
+	margin-top: 30px;
+
+}
+
+.thumbnail {
+	padding: 6px;
+	background-color: #0B7E48;
+	border: none;
+	color: white;
+}
+
+p {
+	font-size: 14px;
+	text-align: center;
+}
+
+.img-rounded {
+	margin-bottom: -10px;
+
+}
+
+.middle {
+	margin-top: 50px;
+	text-align: center;
+	color: white;
+}
+
+#demo {
+	font-size: 15px;
+}
+
+#demo2 {
+	font-size: 15px;
+}
+
+.top {
+	margin-top: 80px;
+}
+
+#demo p {
+	margin-top: 20px;
+}
+
+#demo2 p {
+	margin-top: 20px;
+}
