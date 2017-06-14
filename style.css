@@ -9,8 +9,30 @@
 
 .headerName {
 	margin: -30px;
+}
+
+.navbar-brand {
+	color: #0B7E48 !important;
+	font-weight: bold;
+	font-family: 'Quicksand', sans-serif;
+	padding-left: 80px;
 	
 }
+
+.navbar-header {
+	width: 100%;
+}
+
+.right {
+	color: #0B7E48 !important;
+	font-weight: bold;
+	font-family: 'Quicksand', sans-serif;
+	float: right;
+	padding-right: 80px;
+	font-size: 17px;
+	margin-top: 14px;
+}
+
 
 .phrase {
 	margin-bottom: -16px;
