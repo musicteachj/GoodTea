@@ -105,3 +105,18 @@ p {
 .row {
 	margin-top: 40px;
 }
+
+.infoContainer {
+	text-align: center;
+	background-color: white;
+	font-family: 'Quicksand', sans-serif;
+	margin: 30px 60px 0 60px;
+	background-color: #0B7E48;
+	color: white;
+	border-radius: 5px;
+}
+
+.contactForm {
+	margin: 30px 60px 0 60px;
+	background-color: #0B7E48;
+}
