@@ -114,9 +114,16 @@ p {
 	background-color: #0B7E48;
 	color: white;
 	border-radius: 5px;
+	padding: 10px 20px 10px 20px;
+}
+
+.infoContainer p {
+	font-size: 16px;
 }
 
 .contactForm {
 	margin: 30px 60px 0 60px;
 	background-color: #0B7E48;
+	border-radius: 5px;
+	padding: 10px 20px 10px 20px;
 }
