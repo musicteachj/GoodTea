@@ -33,6 +33,19 @@
 	margin-top: 14px;
 }
 
+.left {
+	color: #0B7E48 !important;
+	font-weight: bold;
+	font-family: 'Quicksand', sans-serif;
+	float: left;
+	padding-left: 80px;
+	font-size: 17px;
+	margin-top: 12px;
+}
+
+.navbar-header a:hover {
+	font-size: 18px;
+}
 
 .phrase {
 	margin-bottom: -16px;
