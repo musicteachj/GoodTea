@@ -1,9 +1,9 @@
 .jumbotron {
 	text-align: center;
 	background-color: white;
-	font-family: 'Quicksand', sans-serif;
+	font-family: 'Ultra', serif;
 	margin: 30px 60px 0 60px;
-	background-color: #0B7E48;
+	background-color: #029429;
 	color: white;
 }
 
@@ -12,9 +12,9 @@
 }
 
 .navbar-brand {
-	color: #0B7E48 !important;
+	color: #029429 !important;
 	font-weight: bold;
-	font-family: 'Quicksand', sans-serif;
+	font-family: 'Ultra', serif;
 	padding-left: 80px;
 	
 }
@@ -24,9 +24,9 @@
 }
 
 .right {
-	color: #0B7E48 !important;
+	color: #029429 !important;
 	font-weight: bold;
-	font-family: 'Quicksand', sans-serif;
+	font-family: 'Ultra', serif;
 	float: right;
 	padding-right: 80px;
 	font-size: 17px;
@@ -34,9 +34,9 @@
 }
 
 .left {
-	color: #0B7E48 !important;
+	color: #029429 !important;
 	font-weight: bold;
-	font-family: 'Quicksand', sans-serif;
+	font-family: 'Ultra', serif;
 	float: left;
 	padding-left: 80px;
 	font-size: 17px;
@@ -58,26 +58,45 @@ body {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	font-family: 'Quicksand', sans-serif;
+	
 	color: white;
 }
 
 .caption a {
 	color: white;
+	font-family: 'Ultra', serif;
 }
 
 .btn {
 	width: 100%;
 	margin-top: 30px;
-
+font-family: 'Ultra', serif;
 }
 
 .thumbnail {
-	padding: 6px;
-	background-color: #0B7E48;
+	padding: 8px;
+	background-color: #029429;
 	border: none;
 	color: white;
+	font-family: 'Ultra', serif;
 }
+
+.thumbnail2 {
+	padding: 8px;
+	background-color: #029429;
+	border: none;
+	color: white;
+	height: 266px;
+	border-radius: 5px;
+}
+
+.thumbnail2 img {
+	height: 100%;
+	width: 100%;
+}
+
+.thumbnail2 { transition: all .2s ease-in-out; }
+.thumbnail2:hover { transform: scale(1.3); }
 
 p {
 	font-size: 14px;
@@ -122,9 +141,9 @@ p {
 .infoContainer {
 	text-align: center;
 	background-color: white;
-	font-family: 'Quicksand', sans-serif;
+	font-family: 'Ultra', serif;;
 	margin: 30px 60px 0 60px;
-	background-color: #0B7E48;
+	background-color: #029429;
 	color: white;
 	border-radius: 5px;
 	padding: 10px 20px 10px 20px;
@@ -135,8 +154,8 @@ p {
 }
 
 .contactForm {
-	margin: 30px 60px 0 60px;
-	background-color: #0B7E48;
+	margin: 30px 200px 0 200px;
+	background-color: #029429;
 	border-radius: 5px;
 	padding: 10px 20px 10px 20px;
 }
