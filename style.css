@@ -1,7 +1,7 @@
 .jumbotron {
 	text-align: center;
 	background-color: white;
-	font-family: 'Ultra', serif;
+	font-family: 'Montserrat', sans-serif;
 	margin: 30px 60px 0 60px;
 	background-color: #029429;
 	color: white;
@@ -14,7 +14,7 @@
 .navbar-brand {
 	color: #029429 !important;
 	font-weight: bold;
-	font-family: 'Ultra', serif;
+	font-family: 'Montserrat', sans-serif;
 	padding-left: 80px;
 	
 }
@@ -26,7 +26,7 @@
 .right {
 	color: #029429 !important;
 	font-weight: bold;
-	font-family: 'Ultra', serif;
+	font-family: 'Montserrat', sans-serif;
 	float: right;
 	padding-right: 80px;
 	font-size: 17px;
@@ -36,7 +36,7 @@
 .left {
 	color: #029429 !important;
 	font-weight: bold;
-	font-family: 'Ultra', serif;
+	font-family: 'Montserrat', sans-serif;
 	float: left;
 	padding-left: 80px;
 	font-size: 17px;
@@ -49,7 +49,7 @@
 
 .phrase {
 	margin-bottom: -16px;
-	font-style: italic;
+	font-family: 'Montserrat', sans-serif;
 }
 
 body {
@@ -64,13 +64,13 @@ body {
 
 .caption a {
 	color: white;
-	font-family: 'Ultra', serif;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .btn {
 	width: 100%;
 	margin-top: 30px;
-font-family: 'Ultra', serif;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .thumbnail {
@@ -78,7 +78,7 @@ font-family: 'Ultra', serif;
 	background-color: #029429;
 	border: none;
 	color: white;
-	font-family: 'Ultra', serif;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .thumbnail2 {
@@ -141,7 +141,7 @@ p {
 .infoContainer {
 	text-align: center;
 	background-color: white;
-	font-family: 'Ultra', serif;;
+	font-family: 'Montserrat', sans-serif;
 	margin: 30px 60px 0 60px;
 	background-color: #029429;
 	color: white;
@@ -158,6 +158,7 @@ p {
 	background-color: #029429;
 	border-radius: 5px;
 	padding: 10px 20px 10px 20px;
+	font-family: 'Montserrat', sans-serif;
 }
 
 textarea {
@@ -171,4 +172,9 @@ textarea {
 
 .thanks {
 	text-align: center;
+}
+
+.please {
+	float: left;
+	margin-left: -30px;
 }
