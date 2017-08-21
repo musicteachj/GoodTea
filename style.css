@@ -159,3 +159,16 @@ p {
 	border-radius: 5px;
 	padding: 10px 20px 10px 20px;
 }
+
+textarea {
+	width: 100%;
+}
+
+.message {
+	float: left;
+	font-weight: bold;
+}
+
+.thanks {
+	text-align: center;
+}
