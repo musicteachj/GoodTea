@@ -173,6 +173,8 @@ p {
 .please {
 	float: left;
 	margin-left: -30px;
+	font-size: 18px;
+	padding: 0px 20px 0px 20px;
 }
 
 textarea {
