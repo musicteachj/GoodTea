@@ -50,6 +50,7 @@
 .phrase {
 	margin-bottom: -16px;
 	font-family: 'Montserrat', sans-serif;
+	font-style: italic;
 }
 
 body {
@@ -168,11 +169,17 @@ p {
 
 .thanks {
 	text-align: center;
+	font-style: italic;
 }
 
 .please {
-	float: left;
-	margin-left: -30px;
+	text-align: center;
+	font-size: 18px;
+	padding: 0px 20px 0px 20px;
+}
+
+.honor {
+	text-align: center;
 	font-size: 18px;
 	padding: 0px 20px 0px 20px;
 }
